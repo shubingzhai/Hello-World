@@ -1,2 +1,4 @@
 # Hello-World
-My first Repository in Github
+
+Hello! It is exciting to try Github this way.
+
